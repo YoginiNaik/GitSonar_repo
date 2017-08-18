@@ -1,4 +1,4 @@
-package com.capgemini.app.MavenForJenkinsWithSonar;
+package com.capgemini.app.maven;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
